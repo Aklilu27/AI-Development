@@ -1,0 +1,2 @@
+1|go to bank|0
+2|make payment|0
